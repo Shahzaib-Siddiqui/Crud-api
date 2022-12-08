@@ -1,4 +1,3 @@
-// var url = "https://mongodb-signup.herokuapp.com"
 var url = "http://localhost:3000";
 function signup() {
   const Http = new XMLHttpRequest();
